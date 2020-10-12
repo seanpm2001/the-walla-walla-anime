@@ -1,0 +1,33 @@
+PILOT SCRIPT (ENGLISH)
+
+<SCENE: WALLA WALLA ENTRY SIGN>
+Title: A Normal Day In Walla Walla
+Narrator: It was a normal day in walla walla
+Narrator: The birds were chirping
+Narrator: The creeks were flowing
+Narrator: People were traveling the streets
+<jesse drives by>
+Jesse: (waves) hello!
+Narrator: It was a nice day in this small calm town
+Narrator: But what was really going behind the scenes
+<SCENE: PIONEER PARK (DEFAULT)>
+Narrator: Ah, pioneer park
+Narrator: What a lovely day!
+Narrator: And oh my, these trees are gigantic
+Narrator: It must have taken hundreds of years for them to grow this big
+<SCENE: PIONEER PARK PLAYGROUND>
+(children playing)
+(children laughing)
+Narrator: Looks like fun
+Narrator: Let's see what they're up to 
+>ZOOMS IN<
+Curtis: Tag, you're it!
+Sean: No you're it!
+Curtis: Tag, you're it!
+Sean: No you're it!
+Curtis: This is getting annoying
+Sean: Let's go somewhere else
+>ZOOMS OUT<
+Narrator: But where will they go?
+Narrator: Let's find out
+<SCENE: 
